@@ -1,2 +1,2 @@
-# smith-demo
-Smith School of Business Demo - May 15 2020
+# Smith School of Business, Queens University
+# PyCaret's Demo - May 15, 2020
